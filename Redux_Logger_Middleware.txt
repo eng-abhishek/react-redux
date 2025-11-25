@@ -1,0 +1,4 @@
+## Need to install Redux Logger.
+
+npm i redux-logger
+
